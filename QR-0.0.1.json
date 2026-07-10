@@ -1,0 +1,6 @@
+{
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "co.cargostream.dpc/.DeviceAdminReceiver",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://DonatasCS.github.io/test/CargoStreamDPC-0.0.1-Release.apk",
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "zOb10YzMkBmsjaCEjdTkom4ubgesPPf7EuR9HbSm1dk=",
+  "android.app.extra.PROVISIONING_SKIP_ENCRYPTION": true
+}
